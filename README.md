@@ -2,10 +2,14 @@
 
 - This is a project in which the WHO dataset is analysed
 
-### Technologies:
+#### Technologies:
+- Python
+- Matplotlib
+- Seaborn
+- Scikit learn
+- Pandas
 
-- #### Python
-- #### Matplotlib
-- #### Seaborn
-- #### Scikit learn
-- #### Pandas
+#### Features:
+- Data manipulation 🚧 
+- Feature engineering 🛠️
+- Data visualization ✅
