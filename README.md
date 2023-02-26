@@ -1,6 +1,6 @@
 # Life expectancy analysis
 
-- This is a project in which the WHO dataset is analysed
+- Exploratory data analysis on the WHO life expectancy dataset
 
 #### Technologies:
 - Python
@@ -13,3 +13,4 @@
 - Data manipulation 🚧 
 - Feature engineering 🛠️
 - Data visualization ✅
+- Regression 📈
